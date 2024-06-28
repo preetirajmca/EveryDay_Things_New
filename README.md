@@ -11,6 +11,4 @@ HTML5
 CSS3
 JavaScript
 
-# Project See Here:
-
- file:///C:/Users/sunil/Desktop/myWebsite/index.html
+ 
